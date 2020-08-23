@@ -1,0 +1,31 @@
+/**
+@media (min-width: 992px){
+   &:hover{
+
+   }
+}
+*/
+
+@media (max-width: 1400px) {
+}
+
+@media (max-width: 1200px) {
+  ._container {
+    max-width: 950px;
+  }
+}
+
+@media (max-width: 992px) {
+  ._container {
+    max-width: 750px;
+  }
+}
+
+@media (max-width: 767px) {
+  ._container {
+    max-width: none;
+  }
+}
+
+@media (max-width: 450px) {
+}
